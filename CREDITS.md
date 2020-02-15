@@ -1,29 +1,43 @@
-### Libraries:
-1. Aikar's command framework
+# Libraries:
+### Aikar's command framework
+
 MIT License
+
 https://github.com/aikar/commands/
 
-2. HikariCP 
+### HikariCP 
+
 Apache License 2.0
+
 https://github.com/brettwooldridge/HikariCP/
 
-3. Exp4j
+### Exp4j
+
 Apache License 2.0
+
 https://github.com/fasseg/exp4j
 
-4. PaperLib
+### PaperLib
+
 MIT License
+
 https://github.com/PaperMC/PaperLib/
 
-5. Java annotations
+### Java annotations
+
 Apache License 2.0
+
 https://github.com/JetBrains/java-annotations/
 
-### Sounds:
-1. AK-47 (*)
+# Sounds:
+### AK-47 (*)
+
 CC0 1.0 Universal
+
 https://freesound.org/people/kennysvoice/sounds/351778/
 
-2. Desert eagle (*)
+### Desert eagle (*)
+
 Sampling+ 1.0
+
 https://freesound.org/people/SpartanX109/sounds/89147/
