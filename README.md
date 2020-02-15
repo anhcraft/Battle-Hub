@@ -1,2 +1,1 @@
-# Battle-Issues
-Battle issue tracker
+# Battle-Hub
