@@ -36,8 +36,25 @@ CC0 1.0 Universal
 
 https://freesound.org/people/kennysvoice/sounds/351778/
 
-### Desert eagle (*)
+### Desert Eagle (*)
 
 Sampling+ 1.0
 
 https://freesound.org/people/SpartanX109/sounds/89147/
+
+### Shotgun (*)
+
+CC0 1.0 Universal
+
+https://freesound.org/people/michorvath/sounds/427595/
+
+# Models:
+
+### M4A4 (*)
+
+CC BY 4.0
+
+https://sketchfab.com/3d-models/m4a4-fe1db7fa305846868abf512132455f06
+
+<hr>
+**(\*) With modification**
