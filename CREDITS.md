@@ -29,6 +29,12 @@ Apache License 2.0
 
 https://github.com/JetBrains/java-annotations/
 
+### XSeries
+
+MIT License
+
+https://github.com/CryptoMorin/XSeries
+
 # Sounds:
 ### AK-47 (*)
 
