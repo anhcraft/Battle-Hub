@@ -1,0 +1,5 @@
+name: CustomGamemode
+version: ${project.version}
+main: dev.anhcraft.battle.customgamemode.MainClass
+api-version: "1.16"
+depend: [Battle]
